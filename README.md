@@ -1,4 +1,4 @@
-🎄 Advent of Code 2024 🎄
+## **🎄 Advent of Code 2024 🎄**
 Welcome to my Advent of Code 2024 repository! 🎉 Here, I’ll be solving the daily coding challenges from Advent of Code and sharing my solutions. Each day's folder includes the problem description, input file, and Python solution.
 
 📁 Folder Structure
